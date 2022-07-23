@@ -1,2 +1,2 @@
-# Mikhail_Baranovskii
+# Mikhail Baranovskii
 Portfolio of completed works
