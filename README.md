@@ -195,4 +195,4 @@
 # Final work
 
 - [Coursework. Task Manager](https://github.com/Mihalk1993/TaskManager)
->>>>>>> 33e51d8 (first commit)
+
