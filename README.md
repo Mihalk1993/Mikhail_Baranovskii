@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer (Entry level) from Cyprus, Nicosia</h3>
   <div>
-    <p>My skills is:</p>
+    <p>My skills are:</p>
     <ul>
         <li>Java (Basics, Core, StreamAPI, Unit Tests, Networking, Maven)</li>
         <li>Design patterns</li>
