@@ -4,9 +4,20 @@
   <div>
     <p>My skills are:</p>
     <ul>
-        <li>Java (Basics, Core, StreamAPI, Unit Tests, Networking, Maven)</li>
-        <li>Design patterns</li>
-        <li>Git</li>
+      <li>Java (Basics, Core, StreamAPI, Unit Tests, Networking, Maven)</li>
+      <li>Design patterns</li>
+      <li>Git</li>
+
+    <p>Learning:</p>
+      <li>Java Threads</li>
+      <li>Spring (Boot, Hibernate, Security, REST)</li>
+      <li>SQL</li>
+
+    <p>Other:</p>
+      <li>Responsible</li>
+      <li>Team player</li>
+      <li>Open minded</li>
+      <li>Love sports.)</li>
     </ul>
     </div>
     <div>
