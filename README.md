@@ -7,12 +7,14 @@
       <li>Java (Basics, Core, StreamAPI, Unit Tests, Networking, Maven)</li>
       <li>Design patterns</li>
       <li>Git</li>
-
+    </ul>
+    <ul>
     <p>Learning:</p>
       <li>Java Threads</li>
       <li>Spring (Boot, Hibernate, Security, REST)</li>
       <li>SQL</li>
-
+    </ul>
+    <ul>
     <p>Other:</p>
       <li>Responsible</li>
       <li>Team player</li>
